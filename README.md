@@ -1,24 +1,12 @@
-# README
+# rails-react-tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository is made to do react tutorial with Ruby on Rails.
 
-Things you may want to cover:
+## used gem (for react)
 
-* Ruby version
+[react-rails](https://github.com/reactjs/react-rails)
 
-* System dependencies
+## versions
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby 2.3.1
+* MySQL 5.1.73
