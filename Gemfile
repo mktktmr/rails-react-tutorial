@@ -54,3 +54,6 @@ gem 'pry-rails'
 
 # react
 gem 'react-rails'
+
+# enable to use markdown
+gem 'marked-rails'
