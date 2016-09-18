@@ -11,6 +11,6 @@ class Api::V1::CommentsController < ApplicationController
 
   private
   def comment_params
-    params.permit(:author, :text);
+    params.permit(:author, :text)
   end
 end
